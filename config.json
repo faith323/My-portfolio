@@ -1,0 +1,7 @@
+{
+    "s3_bucket_name" : "example-unique-name-bucket1234",
+    "domain_name" : "example.com",
+    "domain_aliases" : "www.example.com",
+    "project_name" : "anyname_to_tag_resources",
+    "hosted_zone_name" : "anyname or domain_name"
+}

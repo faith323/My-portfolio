@@ -16,7 +16,7 @@ justify-content: center;
 text-align: center;
 align-items: center;
 background-image: linear-gradient(120deg, rgba(61, 61, 231, 80%), 
-    rgba(214, 18, 214, 80%)), url(pic1.jpg);
+    rgba(214, 18, 214, 80%)), url(images/pic1.jpg);
 background-repeat: no-repeat;
 background-position: center;
 position: relative;
