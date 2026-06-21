@@ -96,7 +96,12 @@ python destroy.py
 ---
 
 ## Contributors
-**Favour Ozoemenam, Chisom Ozoemenam**
+
+### Favour Ozoemenam
+*Aspiring Full-Stack Developer*
+
+### Chisom Ozoemenam
+*Aspiring DevOps & Automation Engineer*
 
 ---
 

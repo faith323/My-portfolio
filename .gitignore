@@ -1,6 +1,6 @@
 main_logs
 destroy_logs
 deployment/infrastructure/.terraform
-deployment/infrastructure/terraform.tfstate
-deployment/infrastructure/terraform.tfstate.backup
+deployment/infrastructure/.terraform.tfstate
+deployment/infrastructure/.terraform.tfstate.backup
 .variables.json
